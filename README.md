@@ -10,7 +10,7 @@ To add the Faker Plugin to your project using [Composer](https://getcomposer.org
 
     composer require synetic/patternlab-plugin-faker
 
-See Packagist for [information on the latest release](https://packagist.org/packages/pattern-lab/plugin-faker).
+See Packagist for [information on the latest release](https://packagist.org/packages/synetic/patternlab-plugin-faker).
 
 ## Usage
 
