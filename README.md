@@ -1,5 +1,4 @@
-![license](https://img.shields.io/github/license/pattern-lab/plugin-php-faker.svg)
-[![Packagist](https://img.shields.io/packagist/v/pattern-lab/plugin-faker.svg)](https://packagist.org/packages/pattern-lab/plugin-faker) [![Gitter](https://img.shields.io/gitter/room/pattern-lab/php.svg)](https://gitter.im/pattern-lab/php)
+[![Packagist](https://img.shields.io/packagist/v/synetic/patternlab-plugin-faker.svg)](https://packagist.org/packages/synetic/patternlab-plugin-faker)
 
 # Faker Plugin for Pattern Lab
 
@@ -9,7 +8,7 @@ The Faker Plugin adds [Faker](https://github.com/fzaninotto/Faker) support to Pa
 
 To add the Faker Plugin to your project using [Composer](https://getcomposer.org/) type:
 
-    composer require pattern-lab/plugin-faker
+    composer require synetic/patternlab-plugin-faker
 
 See Packagist for [information on the latest release](https://packagist.org/packages/pattern-lab/plugin-faker).
 
